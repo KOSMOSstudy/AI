@@ -1,7 +1,7 @@
 ## AI
 
 This repository is for AI study group that three universities(
-Kwangwoon, Myongji, Sungshin) attend in until 2021.09 to 2021.03. It is all about the basic concept of AI and our curriculum is composed of two big parts.
+Kwangwoon, Myongji, Sungshin) attend in until 2021.09 to 2022.03. It is all about the basic concept of AI and our curriculum is composed of two big parts.
 
 ### Contents
 
